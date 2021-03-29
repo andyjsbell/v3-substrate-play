@@ -7,4 +7,4 @@
   --telemetry-url 'wss://telemetry.polkadot.io/submit/ 0' \
   --validator \
   --rpc-methods Unsafe \
-  --name BigNode01
+  --name BigNode

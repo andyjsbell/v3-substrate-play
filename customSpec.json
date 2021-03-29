@@ -1,6 +1,6 @@
 {
-  "name": "Local Testnet",
-  "id": "local_testnet",
+  "name": "Banging Testnet",
+  "id": "banging_testnet",
   "chainType": "Local",
   "bootNodes": [],
   "telemetryEndpoints": null,
